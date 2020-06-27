@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.models;
 
 import com.opencsv.bean.CsvBindByName;
 

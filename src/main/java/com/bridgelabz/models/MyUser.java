@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.models;
 
 public class MyUser {
     private String name;

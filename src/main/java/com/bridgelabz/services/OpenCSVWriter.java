@@ -1,5 +1,6 @@
-package com.bridgelabz;
+package com.bridgelabz.services;
 
+import com.bridgelabz.models.MyUser;
 import com.opencsv.CSVWriter;
 import com.opencsv.bean.StatefulBeanToCsv;
 import com.opencsv.bean.StatefulBeanToCsvBuilder;
